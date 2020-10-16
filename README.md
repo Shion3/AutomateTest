@@ -2,3 +2,4 @@
 * [Selenium介绍](./Notes/Intro_Selenium.md)
 * [搭建环境-Python](./Notes/Env_Python.md)
 * [搭建环境-VSCode](./Notes/Env_VSCode.md)
+* [搭建环境-WebDriver](./Notes/Env_WebDriver.md)

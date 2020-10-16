@@ -3,7 +3,7 @@ WebDriver是一个中间件，开发人员通过API调用WebDriver，WebDriver�
 <img src="https://github.com/Alex-Ji/AutomateTest/raw/main/Notes/Images/Env_WebDriver/1.png" width="50%">  
 WebDriver的版本需要和浏览器的版本一致，首先查找自己浏览器的版本，通过截图的方式，选择About Google Chrome  
 <img src="https://github.com/Alex-Ji/AutomateTest/raw/main/Notes/Images/Env_WebDriver/3.png" width="50%">  
-当前的Chrome版本为86.0.4240.75
+当前的Chrome版本为86.0.4240.75  
 <img src="https://github.com/Alex-Ji/AutomateTest/raw/main/Notes/Images/Env_WebDriver/4.png" width="50%">   
 访问对应Chrome的Downloads链接,可以看到很多版本,我们选择86.0.4240.22,保持大版本一致就可以
 <img src="https://github.com/Alex-Ji/AutomateTest/raw/main/Notes/Images/Env_WebDriver/2.png" width="50%">  
