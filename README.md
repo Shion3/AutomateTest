@@ -3,4 +3,4 @@
 * [搭建环境-Python](./Notes/Env_Python.md)
 * [搭建环境-VSCode](./Notes/Env_VSCode.md)
 * [搭建环境-WebDriver](./Notes/Env_WebDriver.md)
-* [Selenium Scripts](./Notes/Env_WebDriver.Script_Selenium.md)
+* [Selenium Scripts](./Notes/Script_Selenium.md)
