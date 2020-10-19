@@ -1,3 +1,4 @@
+***如果图片无法显示，将151.101.108.133 raw.githubusercontent.com添加到Hosts文件中***
 * [测试介绍](./Notes/Intro_Testing.md)
 * [Selenium介绍](./Notes/Intro_Selenium.md)
 * [搭建环境-Python](./Notes/Env_Python.md)
